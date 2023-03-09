@@ -7,7 +7,7 @@ package A3_109403019;
 
 import java.util.Scanner;
 
-public class Main {
+public class A3_109403019 {
     public static void main(String[] args) {
         /*
           Initialize store object.
